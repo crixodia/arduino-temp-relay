@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="control-de-relé-con-temperatura">Control de relé con temperatura</h1>
 <p>Este esquema tiene como finalidad controlar un relé según la temperatura captada por el sensor DHT11. Consiste en establecer un valor de temperatura mínimo y otro máximo, que activará o desactivará el relé del circuito. Los materiales a usar se detallan a continuación:</p>
